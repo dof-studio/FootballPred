@@ -11,3 +11,9 @@ Not intend for production level use.
 `./src/notebook_pure_preprocessing_subm.ipynb` - Notebook with generic data preprocessing pipelines
 
 `./src/notebook_nn_proposed_network_subm.ipynb` - Notebook with proposed NN models
+
+## Author
+* Nathmath Huang
+* Haiqi Zeng
+* Zhihan Wang
+* 
