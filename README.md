@@ -1,6 +1,8 @@
 # FootballPred
 
-Code about a football prediction pipeline.
+Code about a football prediction project.
+
+Not intend for production level use.
 
 ## File structure
 
