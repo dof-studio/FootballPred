@@ -15,7 +15,7 @@ See `https://huggingface.co/datasets/bh2821/soccer_pred`
 
 `./src/notebook_nn_proposed_network_subm.ipynb` - Notebook with proposed NN models
 
-## Author
+## Authors
 * Nathmath Huang
 * Haiqi Zeng
 * Zhihan Wang
