@@ -4,6 +4,9 @@ Code about a football prediction project.
 
 Not intend for production level use.
 
+## Data Used
+See `https://huggingface.co/datasets/bh2821/soccer_pred`
+
 ## File structure
 
 `./src/benchmark_notebook_subm.ipynb` - Notebook for benchmark test
