@@ -8,4 +8,6 @@ Not intend for production level use.
 
 `./src/benchmark_notebook_subm.ipynb` - Notebook for benchmark test
 
-`./src/notebook_pure_preprocessing_subm.ipynb` - Notebook for generic data preprocessing pipelines
+`./src/notebook_pure_preprocessing_subm.ipynb` - Notebook with generic data preprocessing pipelines
+
+`./src/notebook_nn_proposed_network_subm.ipynb` - Notebook with proposed NN models
