@@ -13,7 +13,9 @@ See `https://huggingface.co/datasets/bh2821/soccer_pred`
 
 `./src/notebook_logistic_svm_rf.ipynb` - Notebook with LR, SVM, RF models
 
-`./src/notebook_ensemble_models.ipynb` - Notebook with ensemble models
+`./src/notebook_ensemble_xgboost.ipynb` - Notebook with ensemble XGBoost models
+
+`./src/notebook_ensemble_lightgbm.ipynb` - Notebook with ensemble LightGBM models
 
 `./src/notebook_pure_preprocessing_subm.ipynb` - Notebook with generic data preprocessing pipelines
 
